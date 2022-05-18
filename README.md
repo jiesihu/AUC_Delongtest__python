@@ -14,4 +14,4 @@ Simply run
 ```
 python compare_auc_delong.py 
 ```
-All functions are included and easy to use.
+All functions are easy to use.
