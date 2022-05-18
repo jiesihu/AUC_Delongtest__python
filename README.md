@@ -1,4 +1,4 @@
-# AUC, Delongtest on python
+# Computing AUC, p value of Delong test on python
 Piece of code computing AUC, 95% CI of AUC, threshold according to Youden index and do Delong test.
 
 ## Requirment
